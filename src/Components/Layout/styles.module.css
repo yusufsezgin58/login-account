@@ -1,0 +1,11 @@
+#hidden {
+    display: none;
+}
+
+#visible {
+    display: block;
+}
+
+button {
+    background: none;
+}
