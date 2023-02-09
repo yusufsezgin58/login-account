@@ -1,4 +1,4 @@
-### Sign up project
+# Sign up project
 
 #### Simple log in log out project made by React, Bootstrap and Router.
 
